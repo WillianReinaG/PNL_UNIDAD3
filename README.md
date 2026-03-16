@@ -2,6 +2,8 @@
 
 Trabajo de la **Unidad 3** de la asignatura **Procesamiento de Lenguaje Natural (PLN)** de la **Universidad ICESI**.
 
+Docente: **Luis Eduardo Ferro Diez**
+
 ## Descripción del proyecto
 
 Este repositorio contiene el desarrollo práctico de modelos basados en **Transformers** para el procesamiento de lenguaje natural.  
@@ -44,7 +46,7 @@ Para ejecutar el notebook se recomienda contar con:
 
 Este trabajo fue desarrollado por los siguientes estudiantes de la Universidad ICESI:
 
-- **Willian Alberto Reina**  
-- **Juan Manuel Hurtado**  
+- **Willian Alberto Reina García**  
+- **Juan Manuel Hurtado Angulo**  
 - **Manuel Alberto González González**
 
